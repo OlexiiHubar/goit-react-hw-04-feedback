@@ -1,0 +1,11 @@
+.statItem {
+  font-weight: 900;
+}
+
+.good {
+  color: rgb(49, 129, 49);
+}
+
+.bad {
+  color: rgb(231, 3, 3);
+}
